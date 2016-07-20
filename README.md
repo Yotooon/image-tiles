@@ -9,7 +9,8 @@ optional arguments:
   -i <path>, --image <path>
                         input image
   -r INIT_RESIZE, --init-resize INIT_RESIZE
-                        resize image before processing (example: 500x500 or 500x to resize width to 500px keeping the aspect ratio)
+                        resize image before processing (example: 500x500 or 500x to resize width to 500px 
+                        keeping the aspect ratio)
   -t TILE_SIZE, --tile-size TILE_SIZE
                         tile size (default: 2x2)
   -m OVERLAP_MARGIN, --overlap-margin OVERLAP_MARGIN
