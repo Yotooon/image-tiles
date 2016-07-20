@@ -1,6 +1,12 @@
 # image-tiles
 A simple script for breaking images into tiles.
 
+## requirements
+* Python 2.7.x
+* PIL `pip install pillow`
+
+## usage
+
 ```
 usage: tile.py --image <image_path>
 Chop up an image into tiles.
